@@ -1,7 +1,7 @@
 {
   "name": "goit-js-hw-09",
   "version": "1.0.0",
-  "description": "js-hw-09",
+  "description": "HW-JS-09 Parcel",
   "main": "index.js",
   "scripts": {
     "dev": "parcel src/index.html",
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/OksanaZel/goit-js-hw-09.git"
   },
-  "author": "Oksana Zelenevska",
+  "author": "Zelenevska Oksana",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/OksanaZel/goit-js-hw-09/issues"
